@@ -3,7 +3,7 @@
 
 En esta práctica veremos ejercicios sobre los contenidos que hemos visto en teoría.
 
-## Ejercicio 1
+# Ejercicio 1
 
 Poner en marcha el Bloc de Notas de Windows, el navegador Edge y la calculadora.
 
@@ -11,7 +11,7 @@ Lanza el Administrador de Tareas desde el botón de inicio y detén las tres apl
 
 Adjunta una captura de pantalla de cada una de las aplicaciones *Terminadas*.
 
-# Respuesta 1:
+## Respuesta 1:
 
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/c93ad98f-8912-4a67-9cda-1d9bd1285f1f)
 
@@ -20,28 +20,28 @@ Adjunta una captura de pantalla de cada una de las aplicaciones *Terminadas*.
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/5b9b138c-af0a-4f26-b830-a8ba16ac16ca)
 
 
-## Ejercicio 2
+# Ejercicio 2
 
 Utilizando la ventana de Rendimiento del Administrador de Tareas, obtén el tiempo que lleva encendido el Sistema.
 
-# Respuesta 2:
+## Respuesta 2:
 
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/d024bd24-1c59-4b83-9566-5024321a4d7e)
 
 
-## Ejercicio 3
+# Ejercicio 3
 
 Elabora una lista con las 3 aplicaciones más utilizadas por el usuario *adminiso*.
 
-# Respuesta 3:
+## Respuesta 3:
 
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/f6c50bfa-825e-4bc3-9012-a50b738eb4aa)
 
-## Ejercicio 4
+# Ejercicio 4
 
 Necesitamos obtener el nombre y la descripción de una serie de programas que podemos encontrar en el sistema. Mediante la ventana *Detalles*, obtén los siguientes datos (rellena la tabla):
 
-# Respuesta 4:
+## Respuesta 4:
 
 | Aplicación              | Nombre del ejecutable | Descripción |
 | ----------------------- | --------------------- | ----------- |
@@ -53,11 +53,11 @@ Necesitamos obtener el nombre y la descripción de una serie de programas que po
 | Tienda Microsoft        | msstore.exe           | Plataforma para descargar aplicaciones y juegos en Windows. |
 | Fotos                   | Microsoft.Photos.exe  | Aplicación para visualizar y editar imágenes en Windows. |
 
-## Ejercicio 5
+# Ejercicio 5
 
 Comprueba en tu ordenador de casa cuantas aplicaciones se arrancan en el inicio de la Sesión.
 
-# Respuesta 5:
+## Respuesta 5:
 
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/7938b68b-b3fe-4cb8-91b1-39deb77ee081)
 
