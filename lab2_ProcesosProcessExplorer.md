@@ -12,7 +12,7 @@ Lanza el Bloc de Notas y el Edge, abre el Process Explorer y comprueba que los p
 
 Realiza una captura de pantalla.
 
-# Respuesta 1:
+## Respuesta 1:
 
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/b34cfaca-528f-4c78-8c66-4207aa58dc6d)
 
@@ -52,13 +52,11 @@ Version:
 
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/663718eb-8a9d-4a7d-8421-25af365c68f8)
 
-
-
-## Ejercicio 3
+# Ejercicio 3
 
 Obtén los mismos datos de 4 programas conocidos. Puedes realizar esta tarea en casa.
 
-# Respuesta 3:
+## Respuesta 3:
 
 Chrome:
 
