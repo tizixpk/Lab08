@@ -28,6 +28,7 @@ Realiza un Script que muestre todos los procesos cuyo nombre sea `svchost`
 Get-Process -Name svchost
 
 ¿Qué hace este proceso? ¿Porqué hay tantos?
+
 **svchost.exe es un proceso genérico de alojamiento de servicios en Windows. Es fundamental para la ejecución de servicios del sistema operativo y servicios de red. Windows utiliza múltiples instancias de svchost.exe para separar los servicios y mejorar la estabilidad y seguridad del sistema. Cada instancia de svchost.exe agrupa servicios relacionados, lo que explica por qué hay múltiples instancias ejecutándose simultáneamente.**
 
 # Ejercicio 3
