@@ -12,8 +12,11 @@ Lanza el Administrador de Tareas desde el botón de inicio y detén las tres apl
 Adjunta una captura de pantalla de cada una de las aplicaciones *Terminadas*.
 
 #Respuesta 1:
+
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/c93ad98f-8912-4a67-9cda-1d9bd1285f1f)
+
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/d419e11f-7ab9-406b-a762-206babd81893)
+
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/5b9b138c-af0a-4f26-b830-a8ba16ac16ca)
 
 
@@ -30,6 +33,7 @@ Utilizando la ventana de Rendimiento del Administrador de Tareas, obtén el tiem
 Elabora una lista con las 3 aplicaciones más utilizadas por el usuario *adminiso*.
 
 #Respuesta 3:
+
 ![image](https://github.com/tizixpk/Lab08/assets/170434202/f6c50bfa-825e-4bc3-9012-a50b738eb4aa)
 
 ## Ejercicio 4
@@ -52,6 +56,8 @@ Necesitamos obtener el nombre y la descripción de una serie de programas que po
 
 Comprueba en tu ordenador de casa cuantas aplicaciones se arrancan en el inicio de la Sesión.
 
-Realiza una captura de pantalla.
+#Respuesta 5:
+
+![image](https://github.com/tizixpk/Lab08/assets/170434202/7938b68b-b3fe-4cb8-91b1-39deb77ee081)
 
 
